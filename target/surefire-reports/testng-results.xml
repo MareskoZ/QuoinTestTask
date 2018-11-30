@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="stackoverflow.tests.LoginTest" duration-ms="14386" started-at="2018-11-30T08:57:28Z" finished-at="2018-11-30T08:57:43Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="14386" started-at="2018-11-30T08:57:28Z" finished-at="2018-11-30T08:57:43Z">
+      <class name="stackoverflow.tests.LoginTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:stackoverflow.tests.LoginTest@edf4efb]" name="setup" is-config="true" duration-ms="4031" started-at="2018-11-30T15:57:28Z" finished-at="2018-11-30T15:57:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="userLogin()[pri:0, instance:stackoverflow.tests.LoginTest@edf4efb]" name="userLogin" duration-ms="10153" started-at="2018-11-30T15:57:33Z" finished-at="2018-11-30T15:57:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userLogin -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:stackoverflow.tests.LoginTest@edf4efb]" name="tearDown" is-config="true" duration-ms="190" started-at="2018-11-30T15:57:43Z" finished-at="2018-11-30T15:57:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- stackoverflow.tests.LoginTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- stackoverflow.tests.LoginTest -->
+</testng-results>
