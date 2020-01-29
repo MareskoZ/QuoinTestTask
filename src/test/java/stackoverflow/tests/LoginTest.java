@@ -1,4 +1,4 @@
-package stackoverflow.tests;
+package test.tests;
 
 import stackoverflow.helpers.Drivers;
 import stackoverflow.pages.LoginPage;
@@ -21,22 +21,24 @@ public class LoginTest {
 
 
 
-    String baseUrl = "https://stackoverflow.com/";
-    String loginUrl = "https://stackoverflow.com/users/login";
-    String password = "1AQ!SW@DE#";
-    String email = "fortestnb@gmail.com";
+    String loginUrl = "link";
+    String password = "Abc123456";
+    String email = "justmytesting@gmail.com";
     String name = "TestNNNN";
 
 
+    @Test
+    public void userWrongLogin() throws InterruptedException {
+        driver.get(loginUrl);
+        loginPage.login(email, password);
+        loginPage.checkError("Please enter email", "Please enter password");
+    }
 
     @Test
     public void userLogin() throws InterruptedException {
         driver.get(loginUrl);
-        //login process
         loginPage.login(email, password);
-        //check after login
         mainPage.checkUser(name);
-        Assert.assertEquals(baseUrl, driver.getCurrentUrl());
     }
 
 

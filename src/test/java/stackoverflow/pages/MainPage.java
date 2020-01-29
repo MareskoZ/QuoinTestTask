@@ -1,4 +1,4 @@
-package stackoverflow.pages;
+package test.pages;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -15,9 +15,9 @@ public class MainPage {
         this.driver = driver;
     }
 
-    @FindBy(xpath = "/html/body/header/div/ol/li[2]/a/div[1]") private WebElement user_icon;
+    @FindBy(xpath = "//*[@id=\"lblFullName\"]") private WebElement fullName_object;
 
     public void checkUser (String name_tittle){
-        Assert.assertEquals(name_tittle, user_icon.getAttribute("title"));
+        Assert.assertEquals(name_tittle, fullName_object.getText("SUPER ADMIN"));
     }
 }
