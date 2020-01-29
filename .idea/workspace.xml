@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="27177769-dee9-4d48-a320-5f3a5701b0f0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QuoinTestTask.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/stackoverflow/helpers/Drivers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stackoverflow/helpers/Drivers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/stackoverflow/pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stackoverflow/pages/LoginPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/stackoverflow/pages/MainPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stackoverflow/pages/MainPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/stackoverflow/tests/LoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stackoverflow/tests/LoginTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="27177769-dee9-4d48-a320-5f3a5701b0f0" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,7 +19,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="637">
+            <state relative-caret-position="675">
               <caret line="45" selection-start-line="10" selection-end-line="45" />
             </state>
           </provider>
@@ -123,89 +116,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="QuoinTestTask" type="b2602c69:ProjectViewProjectNode" />
-              <item name="QuoinTestTask" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="QuoinTestTask" type="b2602c69:ProjectViewProjectNode" />
-              <item name="QuoinTestTask" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="QuoinTestTask" type="b2602c69:ProjectViewProjectNode" />
-              <item name="QuoinTestTask" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="QuoinTestTask" type="b2602c69:ProjectViewProjectNode" />
-              <item name="QuoinTestTask" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="drivers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="QuoinTestTask" type="b2602c69:ProjectViewProjectNode" />
-              <item name="QuoinTestTask" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="QuoinTestTask" type="b2602c69:ProjectViewProjectNode" />
-              <item name="QuoinTestTask" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="QuoinTestTask" type="b2602c69:ProjectViewProjectNode" />
-              <item name="QuoinTestTask" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="QuoinTestTask" type="b2602c69:ProjectViewProjectNode" />
-              <item name="QuoinTestTask" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="stackoverflow" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="QuoinTestTask" type="b2602c69:ProjectViewProjectNode" />
-              <item name="QuoinTestTask" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="stackoverflow" type="462c0819:PsiDirectoryNode" />
-              <item name="helpers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="QuoinTestTask" type="b2602c69:ProjectViewProjectNode" />
-              <item name="QuoinTestTask" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="stackoverflow" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="QuoinTestTask" type="b2602c69:ProjectViewProjectNode" />
-              <item name="QuoinTestTask" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="stackoverflow" type="462c0819:PsiDirectoryNode" />
-              <item name="tests" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -305,7 +218,7 @@
   <component name="ToolWindowManager">
     <frame x="194" y="97" width="1440" height="806" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2761087" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27968526" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -319,11 +232,10 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32907802" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3277311" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32907802" />
-      <window_info anchor="right" id="Maven" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -332,6 +244,7 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="right" id="Maven" order="8" />
     </layout>
   </component>
   <component name="editorHistoryManager">
@@ -339,7 +252,7 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/google/pages/BasePage.java" />
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="637">
+        <state relative-caret-position="675">
           <caret line="45" selection-start-line="10" selection-end-line="45" />
         </state>
       </provider>
